@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Saad Darbari
+#                                      👋 Hi, I'm Saad Darbari
 
 Welcome to my GitHub profile! I'm a **🚀 Agentic AI Developer | Next.js | JS & TS | Python | Agentic AI | Blockchain** with a strong passion for crafting elegant user interfaces and building modern web applications. where creativity meets precision — a quality I carry into my tech projects as well.
 
 ---
 
-## 🚀 About Me
+##                                      🚀 About Me
 
 - 💻 Currently working with **Next.js**, **TypeScript**,**Tailwind CSS**,**Python**
 - 🌱 Always learning and exploring new technologies
@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a **🚀 Agentic AI Developer | Next.js | JS &
 
 ---
 
-## 📚 Relevant Courses & Certifications
+##                           📚 Relevant Courses & Certifications
 
 - **Meta Front-End Developer Specialization** – Coursera  
 - **The Complete JavaScript Course (Jonas Schmedtmann)** – Udemy  
@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a **🚀 Agentic AI Developer | Next.js | JS &
 
 ---
 
-## 🛠️ Tech Stack
+##                                  🛠️ Tech Stack
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
@@ -35,7 +35,7 @@ Welcome to my GitHub profile! I'm a **🚀 Agentic AI Developer | Next.js | JS &
 
 ---
 
-## 📫 Connect with Me
+##                               📫 Connect with Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/saad-darbari-82664a2b3/)
 - 📧 Email: saaddarbari318@gmail.com 
