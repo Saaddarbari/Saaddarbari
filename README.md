@@ -35,13 +35,6 @@ Welcome to my GitHub profile! I'm a **🚀 Agentic AI Developer | Next.js | JS &
 
 ---
 
-## 📈 GitHub Stats
-
-![Saad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saaddarbari&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saaddarbari&layout=compact&theme=radical)
-
----
-
 ## 📫 Connect with Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/saad-darbari-82664a2b3/)
