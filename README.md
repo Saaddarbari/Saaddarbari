@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a **🚀 Agentic AI Developer | Next.js | JS &
 - **The Complete JavaScript Course (Jonas Schmedtmann)** – Udemy  
 - **TypeScript for Beginners** – freeCodeCamp / YouTube  
 - **Next.js & React – The Complete Guide** – Udemy  
-- **Build Responsive Websites with Tailwind CSS** – Scrimba  
+- **Build Responsive Websites with Tailwind CSS** – nextjs or tailwindcss
 - **E-Commerce Website Development** – Self-initiated project-based learning
 
 ---
