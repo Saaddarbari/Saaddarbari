@@ -44,7 +44,7 @@ Welcome to my GitHub profile! I'm a **🚀 Agentic AI Developer | Next.js | JS &
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/saad-darbari-82664a2b3/)
 - 📧 Email: saaddarbari318@gmail.com 
-- 🌐 Portfolio: Coming Soon!
+- 🌐 Portfolio: https://saaddarbariportfolio.vercel.app/
 
 ---
 
