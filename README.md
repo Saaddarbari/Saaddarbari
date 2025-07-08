@@ -1,6 +1,6 @@
 #                                      👋 Hi, I'm Saad Darbari
 
-Welcome to my GitHub profile! I'm a **🚀 Agentic AI Developer | Next.js | JS & TS | Python | Agentic AI | Blockchain** with a strong passion for crafting elegant user interfaces and building modern web applications. where creativity meets precision — a quality I carry into my tech projects as well.
+Welcome to my GitHub profile! I'm a **🚀 Agentic AI Developer | Next.js | JS & TS | Python | Agentic AI | Web Developer** with a strong passion for crafting elegant user interfaces and building modern web applications. where creativity meets precision — a quality I carry into my tech projects as well.
 
 ---
 
